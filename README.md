@@ -12,7 +12,8 @@
 
 I am a software development trainee with a passion for creating useful, user-friendly digital solutions. I learn by building projects, practicing, and growing through every challenge. On this profile, I share my exercises, projects, and progress.
 
-- 🔭 Currently working on: Delieth, an app for ordering desserts (cheesecakes, cakes, and cupcakes)
+- 🔭 Currently working on: [Delieth](https://maykbto.github.io/prototipoTailwindcss/), an app for ordering desserts (cheesecakes, cakes, and cupcakes)
+- 📖 portfolio: [Portfolio](https://maykbto.github.io/portafolioPersonal/)
 - 🌱 Learning: **[React]**, **[Node.js]**, **[MySQL Workbench]**
 ---
 
