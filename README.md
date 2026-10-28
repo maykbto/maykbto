@@ -1,22 +1,22 @@
 <div align="center">
 
-# ¡Hola! Soy Maicol Bohorquez 👋
+# Hi! I’m Maicol Bohorquez 👋
 
-### Aprendiz del SENA | Análisis y Desarrollo de Software (ADSO)
+### SENA Apprentice | Software Analysis and Development (ADSO)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-Soy aprendiz de desarrollo de software y me interesa crear soluciones digitales útiles y fáciles de usar. Aprendo construyendo proyectos, practicando y mejorando con cada reto. En este perfil comparto mis ejercicios, proyectos y avances.
+I am a software development trainee with a passion for creating useful, user-friendly digital solutions. I learn by building projects, practicing, and growing through every challenge. On this profile, I share my exercises, projects, and progress.
 
-- 🔭 Actualmente trabajo en: **Delieth**, una app para pedir postres (cheesecakes, pasteles y cupcakes)
-- 🌱 Estoy aprendiendo: **[React]**, **[Node.js]**
+- 🔭 Currently working on: Delieth, an app for ordering desserts (cheesecakes, cakes, and cupcakes)
+- 🌱 Learning: **[React]**, **[Node.js]**, **[MySQL Workbench]**
 ---
 
-## 🛠️ Lo que sé
+## 🛠️ What I know
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ Soy aprendiz de desarrollo de software y me interesa crear soluciones digitales 
 
 ---
 
-## 📚 Lo que estoy aprendiendo
+## 📚 What I am learning
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,22 +46,22 @@ Soy aprendiz de desarrollo de software y me interesa crear soluciones digitales 
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Descripción | Tecnologías |
+| project | Description | Technologies |
 |---|---|---|
-| 🍰 **Delieth** | App para pedir postres: cheesecakes, pasteles y cupcakes | Tailwind CSS |
+| 🍰 **Delieth** | App for ordering desserts: cheesecakes, cakes, and cupcakes | Tailwind CSS |
 
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maykbto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🌐 Mis redes sociales
+## 🌐 My social media
 
 <div align="center">
 
@@ -76,6 +76,6 @@ Soy aprendiz de desarrollo de software y me interesa crear soluciones digitales 
 
 <div align="center">
 
-⭐ ¡Gracias por visitar mi perfil! ⭐
+⭐ ¡Thanks for visiting my profile! ⭐
 
 </div>
